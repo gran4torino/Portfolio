@@ -44,8 +44,8 @@ Using Python, join the data from the uploaded CSV file and the table with the po
 10
 
 
-#### TOTAL - 97 out of 100
+#### TOTAL SCORE - 97 out of 100
 #### FINAL ASSESSMENT - Pass
 
-##### Congratulations on a job well done! You are a great fellow! Hope you enjoy our course! 
-I would be extremely grateful if you share your feedback - what you liked about the course, what you didn’t like and what can be improved Once again, thank you very much!
+##### Congratulations on a job well done! You are a great fellow! Hope you enjoy  our course! 
+##### I would be extremely grateful if you share your feedback - what you liked about the course, what you didn’t like and what can be improved Once again, thank you very much!
