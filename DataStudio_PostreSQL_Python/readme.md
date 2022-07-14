@@ -1,4 +1,4 @@
-#####This is my solution to task "My vacation"
+##### This is my solution to task "My vacation"
 
 Full task is in files:
 
@@ -7,7 +7,7 @@ Full task is in files:
 [task in Russian](task_en.pdf)
 
 
-#####My solutions:
+##### My solutions:
 
 [Google forms](https://docs.google.com/forms/d/e/1FAIpQLSd9lJdUt4nkV0yR6iuYk3yMO8M1RjL0yuq1035M1OneavsnYQ/viewform)
 
