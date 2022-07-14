@@ -6,6 +6,12 @@ Full task is in files:
 
 [task in Russian](task_en.pdf)
 
+#### Teacher evaluation:
+[task in Russian](teacher_evaluation.md)
+
+
+
+
 
 ### My solutions:
 
