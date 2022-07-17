@@ -1,13 +1,14 @@
 ### This is my solution to task "My vacation"
 
-Full task is in files:
+The complete task is in the files:
 
 [task in English](task_en.pdf)
 
-[task in Russian](task_en.pdf)
+[task in Russian](task_ru.pdf)
 
 #### Teacher evaluation:
-[task in Russian](teacher_evaluation.md)
+[in English](teacher_evaluation_en.md)
+[in Russian](teacher_evaluation_ru.md)
 
 
 
