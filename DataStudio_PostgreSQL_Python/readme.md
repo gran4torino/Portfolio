@@ -1,5 +1,4 @@
-### This is my solution to task "My vacation"
-
+### This is my solution to task "My vacation" ( DataStudio(dashboard)+PostgreSQL+Python))
 The complete task is in the files:
 
 [task in English](task_en.pdf)
