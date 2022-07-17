@@ -17,4 +17,4 @@ The complete task is in the files:
 
 ### My solution:
 
-[Python](/code/pandas_functions_homework.ipynb)
+[Python](/Сode/pandas_functions_homework.ipynb)
