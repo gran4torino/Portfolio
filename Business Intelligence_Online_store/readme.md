@@ -20,4 +20,5 @@ The complete task is in the files:
 
 [Python](Final_homework.ipynb)
 [PowerBi dashboard](Dashboard-final_work_metrics.pbix)
+
 [PowerBi dashboard screenshot](Dashboard-final_work_metrics.pdf)
