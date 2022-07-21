@@ -21,4 +21,4 @@ The complete task is in the files:
 
 [Part 2. Python + Pyspark](https://colab.research.google.com/drive/1o5LmVe1YCkSXVHvYxG5LBbJW29ptzWv5?usp=sharing)
 
-[Part 3. Implementing a data warehouse and working with big data in online cinema.](regex_hhttps://docs.google.com/document/d/1C5VFTnw2J_0orjtPaJ-xMtfk53D-x06JjtEsGzNYWEM/edit?usp=sharing)
+[Part 3. Implementing a data warehouse and working with big data in online cinema.](https://docs.google.com/document/d/1C5VFTnw2J_0orjtPaJ-xMtfk53D-x06JjtEsGzNYWEM/edit?usp=sharing)
