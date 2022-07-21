@@ -1,0 +1,1 @@
+The thesis is to test the hypothesis of the relationship between Covid-19 variables and prices in the primary residential real estate market in Poland
