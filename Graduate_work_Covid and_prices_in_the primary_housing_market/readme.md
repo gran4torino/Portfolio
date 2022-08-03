@@ -18,5 +18,7 @@ The complete task is in the files:
 ### My solutions:
 
 [Python code](Graduate_work_Covid_19_real_estate_Poland.ipynb)
+
 [Presentation (short version)](https://docs.google.com/presentation/d/1IE94G8GctsqxGyCpbx9fXLpmJ5Fjn6a9_yqbRx0IqVE/edit?usp=sharing)
+
 [Graduate work (long version)](https://docs.google.com/document/d/1tsVc0WLnrFwFCKL6vzYCT5HvWFTQhEpQmPL28xQ9pUs/edit?usp=sharing)
