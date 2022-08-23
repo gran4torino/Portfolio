@@ -31,6 +31,7 @@ tfidf_matrix = tfidf.fit_transform(df.Message)
 names = tfidf.get_feature_names()
 tfidf_matrix = pd.DataFrame(tfidf_matrix.toarray(), columns=names)
 Можете поэкспериментировать с параметрами TfidfVectorizer;
+
 6) Разделите данные на тестовые и тренировочные в соотношении 30/70, укажите random_state=42. Используйте train_test_split;
 7) Постройте модель логистической регрессии, укажите random_state=42, оцените ее точность на тестовых данных;
 8) Опишите результаты при помощи confusion_matrix;
