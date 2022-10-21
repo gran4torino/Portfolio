@@ -1,4 +1,4 @@
-### This is my solution to task "Diploma block of the course "Python for data analysis"- machine learning (LDA, Random Forest)
+### This is my solution to task "Diploma of the course "Python for data analysis"- machine learning (LDA, Random Forest)
 
 The complete task is in the files:
 
