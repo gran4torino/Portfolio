@@ -1,12 +1,13 @@
-![]()
-**My projects**
+![](https://github.com/gran4torino/Portfolio/blob/main/background.jpg)
+### **My projects**
 
 
-[***Web scraper*** (SSIS, Visual Studio, MS SQL Server)](https://github.com/gran4torino/Portfolio/tree/main/MS%20SQL%2C%20SSIS%2C%20Visual%20Studio%20-%20Web%20scraper)
+[***Web scraper*** (Visual Studio, SSIS, MS SQL Server)](https://github.com/gran4torino/Portfolio/tree/main/MS%20SQL%2C%20SSIS%2C%20Visual%20Studio%20-%20Web%20scraper)
 
 	-Scheduled web scraper of ads on third party site with saving results in MS SQL Server.
 
-[***Dashboard - Real Estate Poland (Power Bi, DAX)***](https://github.com/gran4torino/Portfolio/tree/main/Power%20BI%20%20-%20Realt%20Estate%20Poland%202006-2022%20dashboard)
+[***Real Estate Poland Dashboard 
+(Power Bi, DAX)***](https://github.com/gran4torino/Portfolio/tree/main/Power%20BI%20%20-%20Realt%20Estate%20Poland%202006-2022%20dashboard)
 
 	- with a comparison of real estate average prices in the cities of Poland since 2006 year
 
