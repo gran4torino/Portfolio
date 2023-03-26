@@ -1,50 +1,19 @@
-**Web scraper**
+**Real Estate Poland Dashboard 
+(Power Bi, DAX)**
 
 
-Scheduled web scraper of ads on third party site with saving results in MS SQL Server.(SSIS, Visual Studio, MS SQL Server)
-
-The project aims to create a scheduled web scraper that extracts all ads from the first page of a particular real estate website and stores the results in a database on MS SQL Server. 
-
+Dashboard in Power Bi with a comparison of real estate average prices in the cities of Poland since 2006 year. It can compare as one so many cities, also it shows year-to-date difference cost in percentage.
 **The stack for this project includes** 
 
-***Visual Studio 2022***	
+***Microsoft Power BI***	
 
-	- to build and deploy project;
-***Regular expressions***
+	- with DAX, online sources (realt prices);
 
-	- to scrape the required fields from HTML code;
-***MS SSIS(SQL Server Integration Services)*** 
+**Data schema**
+![alt text](https://github.com/gran4torino/Portfolio/blob/main/Power%20BI%20%20-%20Realt%20Estate%20Poland%202006-2022%20dashboard/Realt%20Estate%20Poand%20%20Power%20Bi%20%20model.png "Data schema")
 
-	- to implement the deployed project on MSSQL Server; 
-***SSIS proxy connection***
+**Dashboard**
+![alt text](https://github.com/gran4torino/Portfolio/blob/main/Power%20BI%20%20-%20Realt%20Estate%20Poland%202006-2022%20dashboard/Realt%20Estate%20Poand%20%20Power%20Bi%20dashboard.png "Project in Visual Studio")
 
-	-  to gain permission for creating folders and writing files on the local machine;
-***SSIS Job scheduler*** 
-
-	- to launch the task six times per day;
-***MS SQL Server***  
-	
-	- to handle database 
-**Site with ads**
-![alt text](https://github.com/gran4torino/Portfolio/blob/main/MS%20SQL%2C%20SSIS%2C%20Visual%20Studio%20-%20Web%20scraper/_%20SSIS%20source%20Realt.by.png "Site with ads")
-
-**Project in Visual Studio**
-![alt text](https://github.com/gran4torino/Portfolio/blob/main/MS%20SQL%2C%20SSIS%2C%20Visual%20Studio%20-%20Web%20scraper/1%20SSIS.png "Project in Visual Studio")
-
-**Project in Visual Studio Data Flow**
-![alt text](https://github.com/gran4torino/Portfolio/blob/main/MS%20SQL%2C%20SSIS%2C%20Visual%20Studio%20-%20Web%20scraper/2%20SSIS.png "Project in Visual Studio Data Flow")
-
-**Regular Expressions**
-![alt text](https://github.com/gran4torino/Portfolio/blob/main/MS%20SQL%2C%20SSIS%2C%20Visual%20Studio%20-%20Web%20scraper/3%20SSIS.png "Regular Expressions")
-
-**Job activity monitor**
-![alt text](https://github.com/gran4torino/Portfolio/blob/main/MS%20SQL%2C%20SSIS%2C%20Visual%20Studio%20-%20Web%20scraper/4%20SSIS.png "Job activity monitor")
-
-**SSIS Proxy account**
-![alt text](https://github.com/gran4torino/Portfolio/blob/main/MS%20SQL%2C%20SSIS%2C%20Visual%20Studio%20-%20Web%20scraper/5%20SSIS.png "SSIS Proxy account")
-
-**Logs**
-![alt text](https://github.com/gran4torino/Portfolio/blob/main/MS%20SQL%2C%20SSIS%2C%20Visual%20Studio%20-%20Web%20scraper/6%20SSIS.png "Logs")
-
-**MS SQL query**
-![alt text](https://github.com/gran4torino/Portfolio/blob/main/MS%20SQL%2C%20SSIS%2C%20Visual%20Studio%20-%20Web%20scraper/7.%20SSIS.png "MS SQL query")
+**Dashboard**
+![alt text](https://github.com/gran4torino/Portfolio/blob/main/MS%20SQL%2C%20SSIS%2C%20Visual%20Studio%20-%20Web%20scraper/2%20SSIS.png "Dashboard")
