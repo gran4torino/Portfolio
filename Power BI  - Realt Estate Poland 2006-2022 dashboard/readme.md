@@ -7,13 +7,14 @@ Dashboard in Power Bi with a comparison of real estate average prices in the cit
 
 ***Microsoft Power BI***	
 
-	- with DAX, online sources (realt prices);
-
-**Data schema**
-![alt text](https://github.com/gran4torino/Portfolio/blob/main/Power%20BI%20%20-%20Realt%20Estate%20Poland%202006-2022%20dashboard/Realt%20Estate%20Poand%20%20Power%20Bi%20%20model.png "Data schema")
+	- used DAX and online sources (realt prices);
 
 **Dashboard**
 ![alt text](https://github.com/gran4torino/Portfolio/blob/main/Power%20BI%20%20-%20Realt%20Estate%20Poland%202006-2022%20dashboard/Realt%20Estate%20Poand%20%20Power%20Bi%20dashboard.png "Project in Visual Studio")
 
-**Dashboard**
-![alt text](https://github.com/gran4torino/Portfolio/blob/main/MS%20SQL%2C%20SSIS%2C%20Visual%20Studio%20-%20Web%20scraper/2%20SSIS.png "Dashboard")
+**Data schema**
+![alt text](https://github.com/gran4torino/Portfolio/blob/main/Power%20BI%20%20-%20Realt%20Estate%20Poland%202006-2022%20dashboard/Realt%20Estate%20Poand%20%20Power%20Bi%20%20model.png "Data schema")
+
+
+
+
