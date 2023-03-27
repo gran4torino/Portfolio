@@ -4,7 +4,7 @@
 
 [***Web scraper*** (Visual Studio, SSIS, MS SQL Server)](https://github.com/gran4torino/Portfolio/tree/main/MS%20SQL%2C%20SSIS%2C%20Visual%20Studio%20-%20Web%20scraper)
 
-	-Scheduled web scraper of ads on third party site with saving results in MS SQL Server.
+	-Scheduled web scraper of ads on third party site with saving results in the MS SQL Server.
 
 [***Real Estate Poland Dashboard 
 (Power Bi, DAX)***](https://github.com/gran4torino/Portfolio/tree/main/Power%20BI%20%20-%20Realt%20Estate%20Poland%202006-2022%20dashboard)
