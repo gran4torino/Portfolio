@@ -10,6 +10,9 @@ The project aims to create a scheduled web scraper that extracts all ads from th
 ***Visual Studio 2022***	
 
 	- to build and deploy project;
+***Curl*** 
+
+	- to grab HTML code;
 ***Regular expressions***
 
 	- to scrape the required fields from HTML code;
